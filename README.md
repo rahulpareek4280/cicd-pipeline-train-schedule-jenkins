@@ -9,6 +9,7 @@ You need a Java JDK 7 or later to run the build. You can run the build like this
     ./gradlew build
 
 You can run the app with:
+Added a new line
 
     ./gradlew npm_start
 
